@@ -19,7 +19,7 @@ Here are some of the key highlights of this EDA project:
 
 ## Explore the Analysis
 To delve deeper into the realm of students' mental health and explore the findings of this analysis, you can access the complete project by downloading the project files:
-[Download Project Files 📁](https://github.com/releases/789694263/Release.zip)
+[Download Project Files 📁](https://github.com/IEHAG/EDA-Student-s-Mental-Health/releases)
 
 _*(Note: The link provided above needs to be launched to access the project files.)*_
 
